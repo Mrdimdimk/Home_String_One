@@ -4,8 +4,8 @@ public class MainApp {
 
 	public static void main(String[] args) {
 
-		String[] text = { "Слово один", "Слово два", "Слово три", "Слово четыре", "Слово пять", "Слово шесть",
-				"Короткое слово Э", "123" }; // Create Array String
+		String[] text = { "SLovo odin", "Slovo dva", "Slovo tri", "Slovo chetire", "Slovo p9t'", "Slovo shest'",
+				"Slovo sem'", "123" }; // Create Array String
 		int k = 4; // Position Symbol which will changed
 		char newChar = '9'; // Symbol
 		char[] Word;
